@@ -20,6 +20,11 @@ public class Main {
         System.out.println("hee;oei");
         System.out.println("111");
         System.out.println("muy muy");
+        System.out.println("kkkkkkk");
+        System.out.println("kkkkkkk");
+        System.out.println("kkkkkkk");
+        System.out.println("kkkkkkk");
+    }
     }
 
     }
